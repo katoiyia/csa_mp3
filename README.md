@@ -11,3 +11,13 @@
 understanding boolean expes
 ### What I learned by doing this question
 -how to make the code simpler
+
+
+## In this repository for Q2
+
+### Struggles with this question
+-understand what I need to do
+### Prior expereiences that helped
+-understand boolean and if stat 
+### What I learned by doing this question
+-how I was sup
