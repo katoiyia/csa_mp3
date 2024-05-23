@@ -8,4 +8,4 @@
 ### Prior expereiences that helped
 -understand loops 
 ### What I learned by doing this question
-- how to make the code shorter
+-how to make the code shorter
